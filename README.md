@@ -73,11 +73,5 @@ Potential enhancements include:
 - Implementing reinforcement learning approaches
 - Adding a web/UI interface for interactive play against the model
 
-## License
 
-MIT License
 
-## Acknowledgments
-
-- TensorFlow and Keras documentation
-- Scikit-learn for data splitting utilities
